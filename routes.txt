@@ -1,0 +1,24 @@
+1 Yellow
+2 Red
+3 Lavender
+4 Blue
+5 Green
+5 Green Express
+6 Orange
+7 Grey
+8 Bronze
+9A Brown
+9B Brown
+10 Gold
+11 Ruby
+12 Teal
+12 Teal Limited
+13 Silver
+14 Navy
+22 Illini
+22 Illini Limited
+27 Air Bus
+334 West District
+
+180 Lime
+190 Plum
