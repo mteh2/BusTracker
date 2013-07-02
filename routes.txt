@@ -19,10 +19,9 @@
 22 Illini ILLINI
 22 Illini Limited ILLINI 
 27 Air Bus ??
+180 Lime LIME
+190 Plum PLUM
 334 West District ??
 335 SafeRides ??
 
 On Weekday Evening & Late Night + Weekends add a 0 behind the numbers that aren't already 3 digits. 
-
-180 Lime LIME
-190 Plum PLUM
