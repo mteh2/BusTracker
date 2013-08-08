@@ -25,9 +25,9 @@ public class Internet_Call {
       return result;
    }
 
-   public static String main(String args[])
+   public static String main(String args)
    {
      Internet_Call c = new Internet_Call();
-     return c.getHTML(args[0]);
+     return c.getHTML(args);
    }
 }
